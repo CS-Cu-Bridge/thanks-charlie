@@ -3,6 +3,7 @@
 </script>
 
 
+
 <div class="box">
     {text}
 </div>
@@ -16,6 +17,7 @@
         text-align: center;
         margin:5%;
         width:fit-content;
+        height:fit-content;
     }
     .box:hover {
         color: rgb(3, 78, 165);

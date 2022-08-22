@@ -17,6 +17,10 @@
         <Box
             text="It's really helpful to hear from someone that was once in our shoes, so thank you so much for both your time and giving us such thoughtful advice! - Ryan Soeyadi"
         />
+
+        <Box
+            text="Appreciate your time and insightful sharings, Charlie! You demystified many industry jargons and career options, bridging the gaps for many CS students who aspire to become software engineers! Will take your offer and look forward to connecting in person when you are on campus! - Jacky Wong"
+        />
     </Row>
 </div>
 
@@ -70,8 +74,9 @@
         text-align: center;
     }
     .comments {
-        padding: 5%;
-        margin: 5%;
+        padding: 0%;
+        margin: 0%;
+        width:100%;
     }
 
 
