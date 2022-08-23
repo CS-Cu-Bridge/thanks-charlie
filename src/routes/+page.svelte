@@ -22,12 +22,14 @@
             text="Appreciate your time and insightful sharings, Charlie! You demystified many industry jargons and career options, bridging the gaps for many CS students who aspire to become software engineers! Will take your offer and look forward to connecting in person when you are on campus! - Jacky Wong"
         />
 
-        
         <Box
             text="Charlie, hearing about your experience in building a tech career was truly inspiring. It was great to learn about the various roles within the industry and what they each demand. Thank you for your time and advice! - Tomas Pasiecznik"
         />
-
-
+    </Row>
+    <Row>
+        <Box
+            text="Thank you very much for sharing your experience and the detailed information for the questions we asked! It helped me a lot and made everything much more clear now! - Yuhao Dong"
+        />
     </Row>
 </div>
 
@@ -83,8 +85,6 @@
     .comments {
         padding: 0%;
         margin: 0%;
-        width:100%;
+        width: 100%;
     }
-
-
 </style>

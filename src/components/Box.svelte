@@ -16,7 +16,7 @@
         outline: 2px solid rgba(0, 0, 0, 0.887);
         text-align: center;
         margin:5%;
-        width:fit-content;
+        width:15em;
         height:fit-content;
     }
     .box:hover {
