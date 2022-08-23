@@ -21,6 +21,13 @@
         <Box
             text="Appreciate your time and insightful sharings, Charlie! You demystified many industry jargons and career options, bridging the gaps for many CS students who aspire to become software engineers! Will take your offer and look forward to connecting in person when you are on campus! - Jacky Wong"
         />
+
+        
+        <Box
+            text="Charlie, hearing about your experience in building a tech career was truly inspiring. It was great to learn about the various roles within the industry and what they each demand. Thank you for your time and advice! - Tomas Pasiecznik"
+        />
+
+
     </Row>
 </div>
 
