@@ -15,8 +15,8 @@
         color: rgba(0, 0, 0, 0.887);
         outline: 2px solid rgba(0, 0, 0, 0.887);
         text-align: center;
-        margin:5%;
-        width:15em;
+        margin:0%;
+        width:fit-content;
         height:fit-content;
     }
     .box:hover {
