@@ -1,7 +1,6 @@
 <script>
     import { browser } from "$app/env";
     import { base } from "$app/paths";
-    import Box from "../components/box.svelte";
 </script>
 
 <h1>From the Columbia Computer Science Bridge Students!</h1>
@@ -36,11 +35,18 @@
         <div class="col">
             Thank you very much for sharing your experience and the detailed
             information for the questions we asked! It helped me a lot and made
-            everything much more clear now! - Yuhao Dong
+            everything much more clear now! - Yuhao
         </div>
-        <div class="col"></div>
-        <div class="col"></div>
-        <div class="col"></div>
+        <div class="col">
+            Thank you so much for taking the time to share your experience as an
+            untraditional computer science to us. Appreciate hearing about your
+            journey and experience in the technology industry - Amy
+        </div>
+        <div class="col">
+            Thank you so much for sharing your experience and advice, Charlie! -
+            Madison
+        </div>
+        <div class="col" />
     </div>
 </div>
 
@@ -91,5 +97,8 @@
     .col:hover {
         color: rgb(3, 78, 165);
         transition: color 1s, box-shadow 2s;
+    }
+    .row{
+        padding:5%;
     }
 </style>
